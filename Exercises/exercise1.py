@@ -1,4 +1,4 @@
-# Assign the corresponding values for each variable 
+# Assign the corresponding strings for each variable 
 word1 = "Coding"
 word2 = "is"
 word3 = "Cool"
